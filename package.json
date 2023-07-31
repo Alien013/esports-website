@@ -1,0 +1,25 @@
+{
+  "name": "project4-gamingwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alien013/Estates_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alien013/Estates_website/issues"
+  },
+  "homepage": "https://github.com/Alien013/Estates_website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
